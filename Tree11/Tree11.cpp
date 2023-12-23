@@ -1,14 +1,6 @@
 ﻿// Tree11.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 /*
-#include <iostream>
-
-int main()
-{
-    std::cout << "Hello World!\n";
-}
-*/
-
 // Binary Tree in C++
 #include <stdlib.h>
 #include <iostream>
